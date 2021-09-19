@@ -420,7 +420,7 @@ img {
   }
   .webContainer__center {
     width: 40vw;
-    background: url(/assets/img/hero_img.jpg) center/cover no-repeat;
+    background: url(assets/img/hero_img.jpg) center/cover no-repeat;
   }
   .webContainer__right {
     width: 50vw;
