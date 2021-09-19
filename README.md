@@ -8,7 +8,7 @@ In this project, I have designed the webpage of clothing store! I have tried to 
 
 ### Links
 
-- Live Site URL: [LINK]()
+- Live Site URL: [LINK](https://aaveggupta.github.io/Clothing-Store/)
 
 ## My process
 
