@@ -16,6 +16,7 @@ In this project, I have designed the webpage of clothing store! I have tried to 
 
 - Semantic HTML5 markup
 - CSS custom properties
+- Vanilla JavaScript
 - Mobile-first workflow
 
 ### Key Learnings
