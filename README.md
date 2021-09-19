@@ -1,5 +1,5 @@
 # Clothing Store
-In this project, I have designed the webpage of clothing store! I have tried to give it a very minimal and classy look, irrespective of whatever device you are using its completely responsive! 🚀
+In this project, I have designed and developed the webpage of clothing store! I have tried to give it a very minimal and classy look, irrespective of whatever device you are using its completely responsive! 🚀
 
 
 ### Screenshot
